@@ -1,0 +1,57 @@
+body {
+    font-family: Geneva, Verdana, sans-serif;
+    background-color:#dde1e6;
+    }
+
+   h1 {font-size: 40px;
+    color: black;
+    text-align: center;
+
+   }
+
+   h2 {
+    font-size: 25px;
+    color: #09394a;
+    text-align: center;
+
+   }
+
+   h3 {font-size: 16px;
+
+   } 
+   
+   h4,h5,h6 {
+        font-size:20px;}
+
+
+    p { font-size: 16px;
+        line-height: 160%;
+
+        }
+    
+    
+    .article{
+    width:1000px;
+    height: 100%;
+    margin: auto;
+    background-color: #f0f1f2;
+    padding: 50px;
+    }
+
+    a {color: chocolate;
+        font-size: 16px;
+        text-decoration: none;
+
+    }
+
+    a:hover{color: #023047;
+    text-decoration: underline;}
+
+    #footnote {text-align: center;
+        background-color: darksalmon;
+        width: 1080px;
+        color: white;
+        padding: 10px;
+        margin: auto;
+
+    }
